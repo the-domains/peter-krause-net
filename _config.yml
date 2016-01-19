@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4785056
+  lightness: 0.3510638
+  brandStrength: 0.1111696
+  brandColors:
+    - '#1F160D'
+    - '#876539'
+    - '#FBFFFA'
+    - '#A3B4BD'
+    - '#FBAC4A'
+  rhythmicContrast: 0.7241037
+typography_spectrum: 0.7615523
+name: peter.krause.net
